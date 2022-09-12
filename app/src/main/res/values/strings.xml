@@ -3,4 +3,6 @@
     <string name="button_offline">Offline (z przeciwnikiem)</string>
     <string name="button_online">Online</string>
     <string name="move">Ruch: </string>
+    <string name="back_to_menu">Powrót do menu</string>
+    <string name="play_again">Zagraj ponownie</string>
 </resources>

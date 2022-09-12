@@ -53,6 +53,7 @@
             android:layout_weight="1"
             android:orientation="horizontal"
             android:gravity="center">
+
             <LinearLayout
                 android:tag="1"
                 android:layout_width="match_parent"
@@ -62,10 +63,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img1"
                     android:layout_width="match_parent"
@@ -80,10 +81,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img2"
                     android:layout_width="match_parent"
@@ -98,10 +99,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img3"
                     android:layout_width="match_parent"
@@ -124,10 +125,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img4"
                     android:layout_width="match_parent"
@@ -142,10 +143,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img5"
                     android:layout_width="match_parent"
@@ -160,10 +161,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img6"
                     android:layout_width="match_parent"
@@ -185,10 +186,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img7"
                     android:layout_width="match_parent"
@@ -203,10 +204,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img8"
                     android:layout_width="match_parent"
@@ -221,10 +222,10 @@
                 android:gravity="center"
                 android:layout_marginLeft="5dp"
                 android:layout_marginRight="5dp"
-                android:layout_marginTop="10dp"
-                android:layout_marginBottom="10dp"
-                android:background="@color/teal_200"
-                android:onClick="handleClick">
+                android:layout_marginTop="13dp"
+                android:layout_marginBottom="13dp"
+                android:onClick="handleClick"
+                android:background="@drawable/rounded_layout">
                 <ImageView
                     android:id="@+id/img9"
                     android:layout_width="match_parent"
