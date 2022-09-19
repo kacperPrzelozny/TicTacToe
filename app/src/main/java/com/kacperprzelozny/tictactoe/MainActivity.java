@@ -21,17 +21,22 @@ public class MainActivity extends AppCompatActivity {
         Button onlineButton = (Button) findViewById(R.id.online);
         onlineButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
+                online();
             }
         });
         Button offlineButton = (Button) findViewById(R.id.offline);
         offlineButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
-                switchActivities();
+                offline();
             }
         });
     }
-    private void switchActivities() {
+    private void offline() {
         Intent switchActivityIntent = new Intent(this, OfflineActivity.class);
+        startActivity(switchActivityIntent);
+    }
+    private void online() {
+        Intent switchActivityIntent = new Intent(this, PlayerName.class);
         startActivity(switchActivityIntent);
     }
 }

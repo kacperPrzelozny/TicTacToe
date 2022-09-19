@@ -10,8 +10,12 @@
         <entry key="..\:/TicTacToe/app/src/main/res/font/roboto.xml" value="0.21487179487179486" />
         <entry key="..\:/TicTacToe/app/src/main/res/font/roboto_font.xml" value="0.21487179487179486" />
         <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_main.xml" value="0.20104166666666667" />
-        <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_offline.xml" value="0.22" />
+        <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_offline.xml" value="0.25" />
+        <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_online.xml" value="0.1" />
+        <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_player_name.xml" value="0.1" />
         <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_result.xml" value="0.25104166666666666" />
+        <entry key="..\:/TicTacToe/app/src/main/res/layout/activity_room.xml" value="0.25729166666666664" />
+        <entry key="..\:/TicTacToe/app/src/main/res/layout/win_dialog_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
